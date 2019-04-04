@@ -3,7 +3,7 @@
 
 * [CustomTemplate.cs](./CS/WebSite/App_Code/CustomTemplate.cs) (VB: [CustomTemplate.vb](./VB/WebSite/App_Code/CustomTemplate.vb))
 * **[Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))**
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to display different controls in different cells of the specific column
 
