@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to display different controls in different cells of the specific column
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e5130/)**
+<!-- run online end -->
 
 
 <p><strong>Problem:</strong><br />
