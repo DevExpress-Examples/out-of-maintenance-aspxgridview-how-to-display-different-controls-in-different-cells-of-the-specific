@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Web.UI;
-using DevExpress.Web.ASPxEditors;
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 
 public class CustomTemplate : ITemplate {
     public void InstantiateIn(Control container) {
